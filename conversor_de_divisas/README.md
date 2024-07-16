@@ -10,7 +10,7 @@ Este conversor de divisas online ha sido creado por **[Jean Córdova](https://ww
 
 ## 👀 Vista Previa
 
-### ➡️ **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://github.com/JeanCordova10/conversor_de_divisas/blob/main/conversor_de_divisas/video/Conversor_de_Divisas.gif)**
+### ➡️ **Video de funcionamiento:** **[Haz click aquí](https://github.com/JeanCordova10/conversor_de_divisas/blob/main/conversor_de_divisas/video/Conversor_de_Divisas.gif)**
 
 
 
